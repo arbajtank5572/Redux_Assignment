@@ -1,0 +1,80 @@
+{
+  "Users": [
+    {
+      "id": "1722343525333",
+      "name": "arbaj",
+      "number": "8511239404",
+      "password": "5572",
+      "image": "https://img.freepik.com/premium-vector/male-avatar-flat-icon-design-vector-illustration_549488-103.jpg",
+      "email": "arbajtank@gmail.com",
+      "status": "Unblock"
+    }
+  ],
+  "Categories": [
+    {
+      "id": "1716725744572",
+      "name": "Breakfast",
+      "image": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YnJlYWtmYXN0fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "1716725827640",
+      "name": "Launch",
+      "image": "https://media.istockphoto.com/id/1474203885/photo/woman-eating-at-the-table-young-asia-woman-eating-spaghetti-at-restaurant.webp?b=1&s=170667a&w=0&k=20&c=gwsdeRzSH2grtGAu-BfQVRbkv3Qu0ZQ9AOIYy4z9vcM="
+    },
+    {
+      "id": "1716725859343",
+      "name": "Dinner",
+      "image": "https://images.unsplash.com/photo-1505932049984-db368d92fa63?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "Product": [
+    {
+      "id": "1716726670830",
+      "cate_id": "1716725744572",
+      "name": "Champaran Egg Dum Biryani",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/24e1ad862638cc0b73a7b66c2d98832b",
+      "price": "220",
+      "discount": "36"
+    },
+    {
+      "id": "1716727882317",
+      "cate_id": "1716725744572",
+      "name": " Gajanand Pauva House",
+      "image": "https://b.zmtcdn.com/data/dish_photos/dec/3725c01783294d7b331ded4286ea1dec.jpg",
+      "price": "200",
+      "discount": "20"
+    },
+    {
+      "id": "1717823974509",
+      "cate_id": "1716725827640",
+      "name": "Virasat - E - Curry",
+      "image": "https://b.zmtcdn.com/data/dish_photos/e35/dce23c449d4221f77e993d921dad7e35.jpeg?output-format=webp",
+      "price": "350",
+      "discount": "30"
+    },
+    {
+      "id": "1717824041466",
+      "cate_id": "1716725827640",
+      "name": "Shree Annapurna Punjabi & Chinese",
+      "image": "https://b.zmtcdn.com/data/dish_photos/775/d215280f97f45c0507f5dc309cbd9775.jpg?output-format=webp",
+      "price": "350",
+      "discount": "20"
+    },
+    {
+      "id": "1717848209802",
+      "cate_id": "1716725859343",
+      "name": "22nd Parallel",
+      "image": "https://b.zmtcdn.com/data/dish_photos/390/6073bc320e4af83e747fd5ba78d9e390.jpeg",
+      "price": "350",
+      "discount": "30"
+    },
+    {
+      "id": "1717848260242",
+      "cate_id": "1716725859343",
+      "name": "Super Dawat Tawa Fry Centre",
+      "image": "https://b.zmtcdn.com/data/dish_photos/ed4/57383591222b2904c2f255539f899ed4.jpg",
+      "price": "300",
+      "discount": "15"
+    }
+  ]
+}
